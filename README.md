@@ -11,6 +11,8 @@ npm start
 mysql -u [username] -p < schema.sql
 To run the databse 
 
+Demo- https://www.youtube.com/watch?v=s5_ZKN1fy08
+
 ## Available Scripts
 
 In the project directory, you can run:
